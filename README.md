@@ -5,14 +5,17 @@ Em construção
 <!-- ## Demo 📸
 
 <div align="center" >
-   <img src="./github/" alt="demo-mobile" height="425">
+   <img src="./github/call-sistem.gif" alt="demo-mobile" height="425">
 </div> -->
  ---
 
 ## Sobre o Projeto
-O Projeto todo foi um sistema de chamados, tendo parte de registro de usuário, de cadastro, login, controle de rotas.
+O sistema de chamados utiliza o banco de dados do Firebase para registrar informações de cadastro de usuários, tal como o Firebase Authentication para validar se o usuário está registrado ou não e/ou logado caso já tenha uma conta cadastrada.
+Context API para obter e utilizar informações dos usuários em diferentes partes da aplicação.
 
-### Link do projeto: no yet
+Toda a paginação do projeto é feita com React Router Dom, contendo toda parte de registro de usuários, de cadastros, login, controle de rotas.
+
+### Link do projeto: https://call-services.netlify.app/
 
 ### 🛠 Tecnologias
 #### As seguintes ferramentas foram usadas na construção do projeto:
