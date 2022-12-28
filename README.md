@@ -2,11 +2,11 @@
 
 <h1 style="text-align: center; font-weight: bold;">Sistema de Chamados</h1>
 
-<!-- ## Demo 📸
+ ## Demo 📸
 
-<div align="center" >
+<div align="center">
    <img src="../../assets/call-sistem.gif" alt="demo-mobile" height="425">
-</div> -->
+</div> 
  ---
 
 ## Sobre o Projeto
